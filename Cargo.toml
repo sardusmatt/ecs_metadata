@@ -1,0 +1,12 @@
+[package]
+name = "ecs_metadata"
+version = "0.1.0"
+edition = "2021"
+authors = ["sardusmatt <sardusmatt@incomingconnection.net>"]
+description = "A simple wrapper to expose ECS container metadata"
+repository = "https://github.com/sardusmatt/ecs_metadata"
+license = "MIT"
+readme = "README.md"
+
+
+[dependencies]
